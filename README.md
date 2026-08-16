@@ -14,13 +14,13 @@ society.
 
 ## Research programs
 
-- **AI governance, ethics, and democracy** — LLMs and elections, public discourse
+- **AI governance, ethics, and democracy**. LLMs and elections, public discourse
   around AI ethics, infrastructure dependency, and AI in legal systems
-- **Journalism, democracy, and media accountability** — election denial,
+- **Journalism, democracy, and media accountability**. Election denial,
   democracy-framed journalism, far-right news, and platform policy
-- **Platform harms and digital justice** — deepfakes, image-based abuse, digital
+- **Platform harms and digital justice**. Deepfakes, image-based abuse, digital
   sex trafficking, privacy, and transnational platform power
-- **AI, corporate responsibility, and public trust** — responsible-AI
+- **AI, corporate responsibility, and public trust**. Responsible-AI
   communication, crisis communication, and public expectations of AI companies
 
 Explore my [research portfolio](https://www.heesoojang.com/research/) for
